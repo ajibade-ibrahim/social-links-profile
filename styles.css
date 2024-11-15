@@ -130,6 +130,7 @@ body {
 .btn {
     padding: 1.2rem;
     border-radius: 0.8rem;
+    border-style: none;
 }
 
 .btn-link {
